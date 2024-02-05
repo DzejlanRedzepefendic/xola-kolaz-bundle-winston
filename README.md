@@ -11,7 +11,7 @@ This version of Winston bundle requires Kolaz 0.1.1.
 ### Step 1: Download
 
 ```shell script
-npm install kolaz-bundle-winston
+npm install xola-kolaz-bundle-winston
 ```
 
 ### Step 2: Enable

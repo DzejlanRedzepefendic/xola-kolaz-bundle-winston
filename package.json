@@ -1,11 +1,11 @@
 {
-    "name": "kolaz-bundle-winston",
-    "version": "0.2.0",
+    "name": "xola-kolaz-bundle-winston",
+    "version": "0.1.0",
     "main": "src/index.js",
     "description": "Kolaz bundle provides Winston log service",
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com:articode/kolaz-bundle-winston.git"
+        "url": "git+ssh://git@github.com:DzejlanRedzepefendic/xola-kolaz-bundle-winston.git"
     },
     "keywords": [
         "nodejs",
@@ -20,11 +20,11 @@
         "/src"
     ],
     "bugs": {
-        "url": "https://github.com/articode/kolaz-bundle-winston/issues"
+        "url": "https://github.com/DzejlanRedzepefendic/xola-kolaz-bundle-winston/issues"
     },
-    "homepage": "https://github.com/articode/kolaz-bundle-winston#readme",
+    "homepage": "https://github.com/DzejlanRedzepefendic/xola-kolaz-bundle-winston#readme",
     "peerDependencies": {
-        "kolaz": "^0.1.1"
+        "xola-kolaz": "^0.1.0"
     },
     "dependencies": {
         "winston": "^3.2.1"
